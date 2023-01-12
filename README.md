@@ -1,6 +1,6 @@
 # Hello World! projects
 
-All Hello World! projects made in different languages
+All Hello World! projects made in languages I've been learning
 
 ## Hello World! in C
 
