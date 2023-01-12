@@ -17,6 +17,7 @@ To run this project:
 
 ```bash
   ./hello_world.o
+```
 
 ## Hello World! in C++
 
@@ -33,5 +34,6 @@ To run this project:
 
 ```bash
   ./hello_world.o
+```
 
 ## Hello World! in HTML
