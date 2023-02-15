@@ -53,10 +53,6 @@ To run this project:
   ./hello_world.o
 ```
 
-## Hello World! in C#
-
-### Description to be added...
-
 ## Hello World! in HTML
 
 ### Description to be added...
