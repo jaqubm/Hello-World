@@ -19,6 +19,23 @@ To run this project:
   ./hello_world.o
 ```
 
+## Hello World! in C but Randomized
+
+### Build
+
+To build this project:
+```bash
+  make
+```
+
+### Run
+
+To run this project:
+
+```bash
+  ./randomized_hello_world.o
+```
+
 ## Hello World! in C++
 
 ### Build
